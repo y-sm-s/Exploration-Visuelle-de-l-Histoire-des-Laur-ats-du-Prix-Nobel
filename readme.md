@@ -1,4 +1,4 @@
-[# Projet 6 : Exploration Visuelle de l'Histoire des Lauréats du Prix Nobel]()
+[# Projet 6 : Exploration Visuelle de l'Histoire des Lauréats du Prix Nobel](https://github.com/y-sm-s/Exploration-Visuelle-de-l-Histoire-des-Laur-ats-du-Prix-Nobel/blob/main/Exploration%20Visuelle%20de%20l'Histoire%20des%20Laure%CC%81ats%20du%20Prix%20Nobel.ipynb)
 
 ## Description  
 Ce projet a pour objectif d'analyser les données des lauréats du Prix Nobel, qui est décerné chaque année à des scientifiques et des chercheurs dans les disciplines de la chimie, de la littérature, de la physique, de la médecine, de l'économie et de la paix. À travers une exploration visuelle des données, nous chercherons à identifier des tendances, des biais éventuels et des histoires captivantes derrière ces prestigieuses récompenses.
